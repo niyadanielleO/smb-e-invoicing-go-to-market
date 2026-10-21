@@ -87,7 +87,10 @@ Chaque document distingue les **données mesurées** des **hypothèses**, et pro
 ```bash
 git clone https://github.com/niyadanielleO/smb-e-invoicing-go-to-market.git
 cd smb-e-invoicing-go-to-market
-conda activate segmentation
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+jupyter notebook
 ```
 
 Télécharger `bfn-resultats-2022.csv` sur [data.gouv.fr](https://www.data.gouv.fr/datasets/france-num-barometre-2022-libelles-des-questions-et-resultats-1), le placer dans `data/`, puis exécuter les deux notebooks dans l'ordre.
