@@ -1,7 +1,7 @@
 # Note de cadrage — Lancer une offre de facturation électronique pour les TPE-PME
 
 **Projet :** De la voix du client au go-to-market
-**Auteure :** N. Danielle OUATTARA
+**Auteure :** Niya C. Danielle Ouattara
 **Version :** 1.0 — octobre 2026
 
 ---

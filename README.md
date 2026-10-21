@@ -97,4 +97,4 @@ Télécharger `bfn-resultats-2022.csv` sur [data.gouv.fr](https://www.data.gouv.
 
 ---
 
-**N. Danielle OUATTARA** · [LinkedIn](https://www.linkedin.com/in/ndanielleouattara/) · [Mes autres projets](https://github.com/niyadanielleO)
+**Niya C. Danielle Ouattara** · [LinkedIn](https://www.linkedin.com/in/ndanielleouattara/) · [Mes autres projets](https://github.com/niyadanielleO)
